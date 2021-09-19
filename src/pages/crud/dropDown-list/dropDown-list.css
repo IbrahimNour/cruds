@@ -1,0 +1,15 @@
+.select {
+  float: left;
+  margin-top: 20px;
+  width: 240px;
+}
+
+.button {
+  background: transparent;
+  border: transparent;
+  color: red;
+}
+
+.button:hover {
+    background: transparent;
+}
